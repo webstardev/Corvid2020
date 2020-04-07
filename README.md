@@ -1,4 +1,5 @@
-## Demo app
+## Show Corvid states with json file
+### React/Next.JS/SSR Project
 
 Build with
 
